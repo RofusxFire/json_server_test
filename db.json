@@ -1,2 +1,95 @@
-test
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Rey Arturo Pendragón",
+            "type": "Aliado",
+            "desc": "Un rey, una espada, una corona y el destino de la humanidad sobre sus hombros",
+            "race": "Caballero",
+            "cost": "5",
+            "power": "2",
+            "eff": "Solo puedes tener en juego a un Rey Arturo Pendragón. Mientras esté en juego, tus Caballeros ganan + 1 a la fuerza y tu oponente bota 2 cartas en cada fase de agrupación. En respuesta a que sea destruido, puedes descartar 2 para salvarlo.",
+            "ilu": "Waldo Retamales",
+            "card_sets": [
+                {
+                    "set_name": "Espada Sagrada",
+                    "set_code": "1-236",
+                    "set_rarity": "Real"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 0,
+                    "image_url": "https://api.myl.cl/static/cards/19/001.png",
+                    "image_url_small": "https://api.myl.cl/static/cards/19/001.png"
+                }
+            ],
+            "card_prices": [
+                {
+                    "price": "500"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Reina Guinivere",
+            "type": "Aliado",
+            "desc": "Ni el sol se compara con su belleza, y su corazón es justo como el oro. La reina es la joya más valiosa del reino.",
+            "race": "Caballero",
+            "cost": "4",
+            "power": "2",
+            "eff": "Cuando Reina Guinivere entra en juego, puedes buscar un Caballero en tu mazo castillo y ponerlo en tu mano. En tu fase de vigilia, genera 2 para bajar armas o 1 para bajar Caballeros.",
+            "ilu": "Andres Silva",
+            "card_sets": [
+                {
+                    "set_name": "Espada Sagrada",
+                    "set_code": "2-236",
+                    "set_rarity": "Real"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 0,
+                    "image_url": "https://api.myl.cl/static/cards/19/002.png",
+                    "image_url_small": "https://api.myl.cl/static/cards/19/002.png"
+                }
+            ],
+            "card_prices": [
+                {
+                    "price": "500"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sir Lancelot ",
+            "type": "Aliado",
+            "desc": "El Caballero más noble no necesita títulos ni medallas, tan sólo un caballo, una espada y una causa justa para combatir a los enemigos de su rey.",
+            "race": "Caballero",
+            "cost": "4",
+            "power": "1",
+            "eff": "Sir Lancelot no puede ser afectado por Talismanes. No tiene límite de armas. Por cada arma que porte, gana + 2 a la fuerza.",
+            "ilu": "Waldo Retamales",
+            "card_sets": [
+                {
+                    "set_name": "Espada Sagrada",
+                    "set_code": "3-236",
+                    "set_rarity": "Real"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 0,
+                    "image_url": "https://api.myl.cl/static/cards/19/003.png",
+                    "image_url_small": "https://api.myl.cl/static/cards/19/003.png"
+                }
+            ],
+            "card_prices": [
+                {
+                    "price": "500"
+                }
+            ]
+        }
+    ]
+}
 
